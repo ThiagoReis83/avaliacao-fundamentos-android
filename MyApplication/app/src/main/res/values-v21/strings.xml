@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_fail">Login Fail - Try user default user: admin password: admin</string>
+    <string name="lbl_find_inactive">Listar Ordens Inativas</string>
+    <string name="lbl_find_active">Listar Ordens Ativas</string>
+</resources>
